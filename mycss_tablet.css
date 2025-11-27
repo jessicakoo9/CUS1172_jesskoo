@@ -1,0 +1,73 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #ffffff;
+  color: #333;
+}
+
+.section {
+  padding: 25px;
+}
+
+
+#main-nav ul {
+  display: block;
+  text-align: center;
+  padding: 0;
+}
+
+#main-nav li {
+  margin: 8px 0;
+}
+
+#main-nav a {
+  font-size: 18px;
+}
+
+
+.profile-layout {
+  display: block;
+}
+
+.profile-photo {
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.profile-video {
+  width: 100%;
+  margin-top: 10px;
+}
+
+
+.edu-table th {
+  font-size: 16px;
+}
+
+.edu-table td {
+  font-size: 14px;
+}
+
+
+
+.skills-list,
+.favorites-list,
+.website-list {
+  padding: 15px;
+  box-shadow: none;
+  border-radius: 6px;
+  background-color: #fafafa;
+}
+
+
+.contact-form {
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.contact-form button {
+  width: 100%;
+}
